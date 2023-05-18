@@ -1,0 +1,7 @@
+    // this.deliveryOrders.create({
+    //   location: {
+    //   "type": "Point",
+    //   "coordinates": [125.6, 10.1]
+    //   },
+    // .... ect...
+    // });
